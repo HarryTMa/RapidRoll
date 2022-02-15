@@ -1,3 +1,4 @@
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # RapidRoll
 RapidRoll is originally a game on NOKIA non-smartphone, and students from [Shanghai High School](https://www.shs.cn) have made it into Windows and Android versions.
 Website: <https://harrytma.github.io/RapidRoll/>
